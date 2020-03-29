@@ -1,0 +1,8 @@
+created using []
+
+can hold different values
+
+you can store a list in another list
+
+each element in the list has its own index
+the index in lists start with 0

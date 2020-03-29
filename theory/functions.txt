@@ -1,0 +1,15 @@
+if we use built-in function, we get some utility
+
+we can also define functions for ourselves
+
+function: define code which is executed later ( possibly multiple times )
+
+====================
+def greet():
+	print('Hello')
+
+greet()
+greet()
+=====================
+
+indentation is important in function

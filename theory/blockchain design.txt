@@ -1,0 +1,6 @@
+each block to be a list on its own
+
+first block will be one value
+
+other blocks ( each nested lists ) will have previous values and a hash ( we'll be faking a hash )
+

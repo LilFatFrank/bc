@@ -1,0 +1,15 @@
+Python Data Types:
+
+Numbers - Integet (without decimal point)
+	  Float (with decimal point)
+
+Booleans - true/false
+
+Strings - basically text (name, sender, receiver)
+can be written with single and double quotation marks
+
+Complex data types : dictionaries and objects
+
+
+
+variable can be thought of as an address of your value. you can store your value in variable.

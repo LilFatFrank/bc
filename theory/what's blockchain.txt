@@ -1,0 +1,25 @@
+a distributed data storage consisting of containers(blocks) which are connected
+each container holds the ledger
+
+a single block can hold any data you want... for crypto, it can be a list of transactions
+
+a blockchain has multiple blocks and they know about each other. each block is hashed that is generated from all the parts that make up the block.
+the hash generated for the first block is stored by use the next block to generate the hash for the next block
+same input = same output. no other input leads to the same hash.
+
+cryptocurrency uses blockchain. if the data you store in a block is a list of transactions, the coins transferred in the transactions form your cryptocurrecy 
+coins are transferred with transactions
+changing them into other currencies is not possible inside the blockchain
+the value of a coin is determined by the value the participants of the blockchain network assign to it (i.e. what you're willing to pay in 'real' currencies).
+coins are created via mining. mining is adding new blocks to the chain. they have to solve an algorithm(let's say calculate hash)
+
+a blockchain runs on multiple machines called nodes
+
+a wallet is a node, it enables you to send or receive coins. it can act as an identification of you. send and receive coins
+a new transaction created is broadcasted with other notes.  transactions are verified. one node bundles them up in a new block and then inform otherblocks and is added in the network
+
+in the end, A DISTRIBUTED DATA STORAGE NETWORK.
+
+you will work with data all the time in python
+
+a chain in the end is a list (a special type of data in python)

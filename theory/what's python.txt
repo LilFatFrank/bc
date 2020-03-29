@@ -1,0 +1,8 @@
+powerful, easy-to-use, object oriented programming language
+runs on all operating systems, versatile, clean and simple syntax, 'batteries included' approach and great documentation, embraces objects, classes, inheritance.
+easy to learn, versatile, rich set of third party packages
+
+versatility - scripts & programs, web development, data science
+scripts & programs - calculator, simple scripts or complex programs, UI to create desktop applications
+web development - server side language, full stack applications, REST APIs, Django or flask
+data science - rich set of third party packages, gather import and clean data, statistical analysis, ML models
