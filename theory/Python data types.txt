@@ -11,5 +11,6 @@ can be written with single and double quotation marks
 Complex data types : dictionaries and objects
 
 
+None - tell your program there's nothing. we have to return something but something should show that there's notohing there.
 
 variable can be thought of as an address of your value. you can store your value in variable.

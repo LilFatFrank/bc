@@ -1,0 +1,16 @@
+use a colon
+indent the code properly
+
+break will end the loop (for and while)
+continue will skip the rest of the loop
+
+condition and condition or condition (<-- how python will read this)
+False and True or True
+False or True
+True
+
+use paranthesis
+
+
+there's an else used for loops in Python which is executed after the loop is complete.
+works similar for both while and for loops
